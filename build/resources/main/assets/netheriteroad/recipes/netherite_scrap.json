@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "netheriteroad:netherite_alloy",
+  "result": { "item": "netheriteroad:netherite_ingot" },
+  "ingredients": [
+    { "type": "forge:ore_dict", "ore": "scrapNetherite" },
+    { "type": "forge:ore_dict", "ore": "scrapNetherite" },
+    { "type": "forge:ore_dict", "ore": "scrapNetherite" },
+    { "type": "forge:ore_dict", "ore": "scrapNetherite" },
+    { "type": "forge:ore_dict", "ore": "ingotGold" },
+    { "type": "forge:ore_dict", "ore": "ingotGold" },
+    { "type": "forge:ore_dict", "ore": "ingotGold" },
+    { "type": "forge:ore_dict", "ore": "ingotGold" }
+  ]
+}

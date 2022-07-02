@@ -1,0 +1,15 @@
+[
+{
+  "modid": "netheriteroad",
+  "name": "Netherite Road",
+  "description": "Committed to creating vanilla netherite alloy.",
+  "version": "0.1.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["N.I.G.H.T"],
+  "credits": "United Gamer Studio",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "netheriteroad:ancient_debris"
+    },
+    "title": {
+      "translate": "advancement.netheriteroad.hidden_in_the_depths.title"
+    },
+    "description": {
+      "translate":"advancement.netheriteroad.hidden_in_the_depths.description"
+    },
+    "background": "nether",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:nether/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "netheriteroad:ancient_debris",
+            "count": 1
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "requirement"
+    ]
+  ]
+}
